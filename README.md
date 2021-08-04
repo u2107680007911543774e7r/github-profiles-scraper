@@ -4,7 +4,7 @@ Logging and scraping Users-Emails on Github.
 
 About:
 
-This was my of the first jobs on Upwork. 
+This was one of my first jobs on Upwork. 
 The client asked to collect information including email adresses about all programmers from Singapore, Taiwan, Hong-Kong who uses Python
 programming language and have at least 10 repositories.
 
